@@ -1,4 +1,4 @@
-# Sharpening Neural Implicit Functions with Frequency Consolidation Priors (AAAI 2024)
+# Sharpening Neural Implicit Functions with Frequency Consolidation Priors (AAAI 2025)
 
 ### [Project](https://arxiv.org/pdf/2412.19720) | [paper (AAAI)](https://arxiv.org/pdf/2412.19720) 
 
